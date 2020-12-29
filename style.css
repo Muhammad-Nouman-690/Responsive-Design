@@ -39,7 +39,9 @@ html {
 
 .menu li:hover {
     background-color: #0099cc;
+    width: 330px;
 }
+
 
 .aside {
     background-color: #33b5e5;
